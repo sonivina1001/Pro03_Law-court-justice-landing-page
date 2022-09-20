@@ -61,6 +61,7 @@ body{
 .list-item4{
     color: darkgray;
     font-weight: 400;
+    width: max-content;
     font-size: larger;
     position: absolute;
     left: 1100px;
